@@ -108,13 +108,13 @@ export default function MenuAppBar() {
               target="_blank"
               style={{ color: "white" }}
             >
-              <Typography
+              {/* <Typography
                 variant="body1"
                 color="initial"
                 style={{ textAlign: "right", marginRight: "48px" }}
               >
                 <b>About us</b>
-              </Typography>
+              </Typography> */}
             </NavLink>
           </div>
 
